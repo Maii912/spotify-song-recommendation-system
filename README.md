@@ -30,7 +30,7 @@ The project follows a structured data science and recommendation pipeline:
 - **Recommendation Pool:** Top 5 similar tracks per query
 
 **Sample Query Output:**
-```text
+
 Recommendations for: shape of you
 ----------------------------------------
 Reno Ride | Clarence White | Genre: bluegrass
