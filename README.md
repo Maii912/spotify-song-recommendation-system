@@ -39,7 +39,7 @@ Minuet in F, K.1d | Wolfgang Amadeus Mozart;Erik Smith | Genre: classical
 Minuet in F, K.1d | Wolfgang Amadeus Mozart;Erik Smith | Genre: classical
 Les Indes Galantes - Air pour les esclaves | Jean-Philippe Rameau | Genre: opera
 
-🛠️ Tech Stack & Libraries Used
+## 🛠️ Tech Stack & Libraries Used
 The following Python libraries are required to run this project:
 
 Data Manipulation: pandas, numpy
@@ -52,10 +52,15 @@ NearestNeighbors (Unsupervised Clustering/Distance Mapping)
 
 cosine_similarity (Pairwise Metric Evaluations)
 
-📦 How to Run the Project
-Clone this repository to your computer.
-Ensure you have Jupyter Notebook or VS Code installed.
-Install the required packages via your terminal if you haven't already:
+## 📦 How to Run the Project
+1- Clone this repository to your computer.
+2- Ensure you have Jupyter Notebook or VS Code installed.
+3- Install the required packages via your terminal if you haven't already:
 Bash
 pip install pandas numpy scikit-learn
-Open Spotify recommendation.ipynb, update the dataset file path to your local directory, and run the cells to generate your own music recommendations!
+3- Configure Dataset Path:
+    Open Spotify recommendation.ipynb.
+    update the dataset file path to your local directory containing the csv file.
+4- Execute the Code:
+    Launch your notebook interface using jupyter notebook in your terminal.
+    Run the cells sequentially to generate your own music recommendations!
